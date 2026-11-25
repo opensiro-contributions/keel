@@ -9,7 +9,9 @@
 - Accepted review ref: a7981c9d6d022d3086e6ac09dc9358f0aba4727b
 - Accepted reviewed at: 2026-11-20
 - Accepted VSM vector: S1=A · S2=A · S3=A · S3*=A · S4=— · S5=P
-- Profile / Methodology: 0.2.4 / 0.3.8; age 5 days.
+- Accepted Profile version: 0.2.4
+- Accepted Methodology version: 0.3.8
+- Review age: 5 days.
 - System in focus: local Bun daemon, built-in agent trees and optional fleet; providers external and owner parent.
 - Repository-wide source map: 2426 tracked files; directory-level census of engine, providers, automation, safety, fleet, admin, server, board, tools, clients, docs/tests/package; targeted deep reads of decision paths, not every file. [src/engine/turn.ts](https://github.com/agent-sh/keel/blob/86a03cc80fb2841fdb117d521e7f54db0898eb9b/src/engine/turn.ts), [src/automation/agents.ts](https://github.com/agent-sh/keel/blob/86a03cc80fb2841fdb117d521e7f54db0898eb9b/src/automation/agents.ts), [src/automation/budget.ts](https://github.com/agent-sh/keel/blob/86a03cc80fb2841fdb117d521e7f54db0898eb9b/src/automation/budget.ts), [src/automation/verify.ts](https://github.com/agent-sh/keel/blob/86a03cc80fb2841fdb117d521e7f54db0898eb9b/src/automation/verify.ts), [src/server/routes/model-trials.ts](https://github.com/agent-sh/keel/blob/86a03cc80fb2841fdb117d521e7f54db0898eb9b/src/server/routes/model-trials.ts), [src/server/routes/admin.ts](https://github.com/agent-sh/keel/blob/86a03cc80fb2841fdb117d521e7f54db0898eb9b/src/server/routes/admin.ts).
 - Target transition: S4=— -> S4=C
@@ -55,3 +57,10 @@ Matched manual vs composed adaptation: quality, spend, operator time, engineerin
 - External issue: DRAFT — NOT PUBLISHED
 - Fork issue: FORK_ISSUES_DISABLED / NOT_PUBLISHED
 PLAN_ONLY; no tests/product change/Index grade change. Separate exact consent and history gate.
+- Publication review source HEAD: 86a03cc80fb2841fdb117d521e7f54db0898eb9b
+- Publication review action: original_issue
+- Publication review destination: https://github.com/agent-sh/keel
+- Publication review title SHA256: fa31efe58fdbc20c7898691b2c62df3a2f304591f291ecc53d65d7dbccaa9406
+- Publication review history SHA256: 5f57e53bfcfd7f3bdfe6496846e39ad8ebf4ab9f47d7702387cbc23d7f221106
+- Publication review resolution: NEW_DISTINCT_OUTCOME
+- Publication review rationale: Bounded native and named archive history scan NEW_PROPOSAL; no prior match, not exhaustive; original destination preflight PUBLICATION_BLOCKED_DESTINATION / ISSUE_CHANNEL_EVIDENCE_UNVERIFIED. No approval requested, no public Issue.

@@ -1,0 +1,1 @@
+Proposal: Optional delegated reader-model adaptation for Keel — Opensiro VSM architecture review
