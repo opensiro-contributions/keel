@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-25T191456Z--keel-roadmap-bootstrap",
+  "recorded_at": "2026-11-25T19:14:56Z",
+  "actor": "ChatGPT (owner-directed roadmap)",
+  "kind": "DECISION",
+  "decision": "ACTIVE/ALLOW bootstrap; GO / NEEDS_EVIDENCE; PLAN_ONLY",
+  "evidence_urls": [
+    "https://github.com/opensiro/upstream/issues/58",
+    "https://github.com/opensiro/upstream/issues/58#issuecomment-7171894968",
+    "https://github.com/agent-sh/keel/commit/86a03cc80fb2841fdb117d521e7f54db0898eb9b"
+  ],
+  "next_action": "No fork Issue: disabled. Exact original issue history and payload gate before owner approval; no implementation."
+}
