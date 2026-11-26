@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-26T113825Z--keel-original-publication",
+  "recorded_at": "2026-11-26T11:38:25Z",
+  "actor": "ChatGPT (explicit owner-directed publication via Siro VM)",
+  "kind": "PUBLICATION_VERIFIED",
+  "decision": "ORIGINAL_ISSUE_PUBLISHED / OPEN",
+  "case_id": "s4-model-trial-adaptation-20261125",
+  "original_issue_url": "https://github.com/agent-sh/keel/issues/1",
+  "title_sha256": "fa31efe58fdbc20c7898691b2c62df3a2f304591f291ecc53d65d7dbccaa9406",
+  "body_sha256": "3b18d66fcce7c0e73f8518974a97ad873eba4e429239207643ac34e823f1df96",
+  "publisher": "xLagerFeuer",
+  "approved_source_head": "205a848360f4339b0fd3e45e5bfc3b6151ebc9fb",
+  "prepost_source_head": "8f13e2f2ef58dd9a9ea7564db3e961a25321e1e9",
+  "approved_case_ref": "6f93ea62954fe024980fc9d4324be7036775ba3b",
+  "evidence_urls": [
+    "https://github.com/agent-sh/keel/issues/1",
+    "https://github.com/agent-sh/keel/compare/205a848360f4339b0fd3e45e5bfc3b6151ebc9fb...8f13e2f2ef58dd9a9ea7564db3e961a25321e1e9",
+    "https://github.com/agent-sh/.github/blob/0011d30037ea379c7392cf7379be021d3365b8b7/.github/ISSUE_TEMPLATE/feature.yml"
+  ],
+  "source_drift_review": "Owner explicitly approved the entire exact original Issue, then accepted the source-drift relevance rule and directed publication. The 20 intervening commits concern heavy-job resources, UI and shell/credential safety; no changes to engine/provider/model-trial/tier/server/experiment/settings paths or contribution files. Safety changes affect shell/tool permission handling, not the proposed dedicated reader adaptation API; no claim of unchanged entire safety behavior. Reviewed changed path inventory and relevant safety/resource diffs, not every changed line. Native template, legal status, bounded history and exact payload unchanged; old source pin remains truthful dated observation. Current native route PASS; strict history/payload source-pin gate had reported CHANGED_OR_UNVERIFIED, not a new PASS; explicit owner-directed nonmaterial-drift exception for this one action.",
+  "next_action": "Observe original issue; no product implementation, no automatic reply or maintainer acceptance inferred."
+}

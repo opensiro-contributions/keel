@@ -60,3 +60,5 @@
 **Human backlink:** [issue.md](issue.md).
 **case receipt:** [roadmap.md](roadmap.md).
 **AI disclosure:** AI-assisted plan, no tests or independent review.
+
+**Original Issue publication:** https://github.com/agent-sh/keel/issues/1 — OPEN; [publication receipt](publication-receipt.md). PLAN_ONLY and unpublished fork-local draft status refer to the internal proposal, not the published original Issue.

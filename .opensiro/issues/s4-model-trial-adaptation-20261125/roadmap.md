@@ -56,6 +56,7 @@ Matched manual vs composed adaptation: quality, spend, operator time, engineerin
 ## Delivery and publication
 - Result: NEEDS_EVIDENCE
 - External issue: DRAFT — NOT PUBLISHED
+- Actual original publication outcome (post-draft): PUBLISHED / OPEN — https://github.com/agent-sh/keel/issues/1; [publication receipt](publication-receipt.md). The preceding field is the historical proposal-stage contract, not the live Issue status.
 - Fork issue: FORK_ISSUES_DISABLED / NOT_PUBLISHED
 PLAN_ONLY; no tests/product change/Index grade change. Separate exact consent and history gate.
 - Publication review source HEAD: 205a848360f4339b0fd3e45e5bfc3b6151ebc9fb
@@ -64,4 +65,4 @@ PLAN_ONLY; no tests/product change/Index grade change. Separate exact consent an
 - Publication review title SHA256: fa31efe58fdbc20c7898691b2c62df3a2f304591f291ecc53d65d7dbccaa9406
 - Publication review history SHA256: 36b6a55abf4ed23d12047822580ffef3867b897ed7392536b2698e95122788f3
 - Publication review resolution: NEW_DISTINCT_OUTCOME
-- Publication review rationale: Bounded current native and named archive scan NEW_PROPOSAL; no prior match, not exhaustive. Reader tier already exists; delegated trial and scoped adoption/retention with actual later read receipts is the proposed delta, not a new tier. Inherited native Feature Request route and revised draft fields passed after Upstream #116. Source and text changed; renewed owner approval required. No public Issue.
+- Publication review rationale: Bounded current native and named archive scan NEW_PROPOSAL; no prior match, not exhaustive. Reader tier already exists; delegated trial and scoped adoption/retention with actual later read receipts is the proposed delta, not a new tier. Inherited native Feature Request route and revised draft fields passed after Upstream #116. Renewed exact owner approval received; subsequent nonmaterial source drift reviewed under explicit owner direction. Historical approval snapshot retained. See publication receipt for actual pre-POST pin, checks and exception.
