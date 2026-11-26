@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "2026-11-26T110330Z--keel-roadmap-native-recheck",
+  "recorded_at": "2026-11-26T11:03:30Z",
+  "actor": "ChatGPT (owner-directed correction)",
+  "kind": "DECISION",
+  "decision": "GO / NEEDS_EVIDENCE; PLAN_ONLY; native form resolved, existing reader tier reused; renewed owner approval required",
+  "evidence_urls": [
+    "https://github.com/opensiro/upstream/pull/116",
+    "https://github.com/agent-sh/keel/commit/205a848360f4339b0fd3e45e5bfc3b6151ebc9fb",
+    "https://github.com/agent-sh/.github/blob/0011d30037ea379c7392cf7379be021d3365b8b7/.github/ISSUE_TEMPLATE/feature.yml"
+  ],
+  "next_action": "Exact history, payload and fresh consent before original Issue; no implementation."
+}
